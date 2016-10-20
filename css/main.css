@@ -21,10 +21,11 @@ header {
 
 img {
   width: 100%;
+  display: block;
 }
 
 h1, h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.875rem;
 }
